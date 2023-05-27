@@ -1,0 +1,296 @@
+@media(max-width:575px) {
+    h2 {
+    font-size: 25px !important;
+    }
+    header video {
+    object-fit: cover;
+    height: 50vh !important;
+}
+    .about_us {
+     padding:30px 0px;
+        
+    }
+    .about_us p {
+    font-size: 13px;
+
+}
+
+    .how_it_works,
+    .package_box {
+        padding-bottom: 0
+    }
+    .rates,
+    .testimonial p {
+        text-align: center
+    }
+    .rates,
+    .social_icons {
+        margin-bottom: 20px
+    }
+    header h1 {
+        font-size: 22px
+    }
+    header .banner_containt .glbl-btn {
+        padding: 8px 10px;
+        margin-top: 10px;
+        font-size: 13px
+    }
+    header .banner_containt .glbl-btn .fa-solid {
+        font-size: 11px;
+        margin-right: 2px
+    }
+    header {
+        position: relative;
+        height: 50vh !important
+    }
+    .how_it_works .right_profile .glbl-btn,
+    form label,
+    header .banner_containt p {
+        font-size: 13px
+    }
+    header .banner_containt {
+        margin-top: 40%
+    }
+    .package_box h3 {
+        font-size: 15px;
+        margin: 20px 0
+    }
+    .package_box .left .discount span {
+        font-size: 12px
+    }
+    .package_box .package .flex {
+        display: block
+    }
+    .package_box .left img {
+        height: 225px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .package_box h4 {
+        margin-top: -5px;
+        font-size: 16px
+    }
+    .package_box em,
+    .tour_highlights h5 {
+        font-size: 16px
+    }
+    .package_box ul li {
+        margin-bottom: 5px;
+        line-height: 18px;
+        font-size: 13px
+    }
+    .package_box .package .right {
+        padding: 10px;
+        border-top: 1px solid #dbd9d9
+    }
+    .package_box .right h5 {
+        margin: 0;
+        font-size: 16px
+    }
+    .package_box .middle {
+        padding: 15px 30px 5px
+    }
+    .package_box .right .button button {
+        padding: 10px
+    }
+    .how_it_works .left_box form {
+        width: 100%;
+        position: static
+    }
+    .how_it_works {
+        padding-top: 0;
+        background-color: #fff
+    }
+    form .form-control {
+        height: 42px;
+
+    }
+    button.owl-next,
+    button.owl-prev {
+        height: 35px !important;
+        top: 100%;
+        margin-top: 10px;
+        width: 35px
+    }
+    .how_it_works .left_box form .row .col-md-6 {
+        margin-bottom: 5px
+    }
+    form textarea {
+        height: 70px
+    }
+    .right_profile {
+        background: #0287af;
+        margin-top: 15px;
+        padding: 25px 0
+    }
+    .how_it_works .right_profile .profile_img img {
+        width: 110px;
+        height: 110px
+    }
+    .how_it_works .right_profile h3 {
+        font-size: 20px
+    }
+    .partners {
+        margin-top: 0
+    }
+    .partners .img-fluid {
+        margin-bottom: 10px
+    }
+    h2 {
+        font-size: 25px
+    }
+    .testimonial {
+        padding-top: 25px
+    }
+    .testimonial .box {
+        width: 100%
+    }
+    .testimonial h2 {
+        margin-bottom: 15px
+    }
+    .testimonial .owl-carousel .owl-item img {
+        margin: auto auto 20px;
+        height: 150px;
+        width: 150px;
+        border-radius: 100%
+    }
+    button.owl-next {
+        right: 30%
+    }
+    button.owl-prev {
+        left: 30%
+    }
+    .testimonial .right h5 {
+        font-size: 17px;
+        text-align: center
+    }
+    .review_detail h2 {
+        font-size: 17px
+    }
+    .review_detail {
+        margin-top: 20px !important;
+        position: relative;
+    }
+    .itinary_box .title h3 {
+        font-size: 18px
+    }
+    .itinary_box li.q {
+        font-size: 14px
+    }
+    .itinary_box .fa-solid {
+        height: 18px !important;
+        width: 18px !important;
+        font-size: 14px !important;
+        line-height: 14px !important;
+    }
+    .review_detail .container #review_first_box {
+        flex-direction: column-reverse
+    }
+  
+    footer .logo {
+        width: 35%
+    }
+    footer .box {
+        margin-bottom: 12px
+    }
+    footer .box img {
+        width: 35px
+    }
+    .contact_form .left {
+        display: none
+    }
+    .contact_form .right {
+        position: static !important;
+        width: 100% !important;
+        padding: 30px 15px !important
+    }
+    .contact_form form {
+        position: static;
+        width: 100%;
+        padding: 0
+    }
+    form .glbl-btn {
+        font-size: 17px !important;
+        font-weight: 500 !important;
+        width: 100% !important;
+        margin: 15px auto 0px!important;
+        display: block
+    }
+    .contact_body .box {
+        margin-bottom: 15px !important
+    }
+    .itinary_box li.q h5 {
+        font-size: 13px;
+        display: inline-block;
+        margin-left: 31px;
+    }
+    .itinary_box .title h3 {
+        font-size: 20px !important;
+    }
+    .inclusion_exclusion .heading a {
+        padding: 5px 17px;
+        font-size: 14px;
+    }
+    .thankyou_contant {
+        width: 100%;
+    }
+    .thankyou_body {
+        height: 70vh;
+    }
+    .form-select {
+        border-radius: unset !important;
+        border: unset;
+        height: 42px;
+
+    }
+    #exampleModal form .row .col-md-6{
+        margin-bottom: 6px;
+    } 
+    form label{
+        font-size: 14px;
+    }
+    .package_box .package .left .strip {
+        top: 12%;
+        left: -208px;
+        height: 33px;
+        font-size: 13px;
+        text-align: center;
+    }
+    .itinary_box {
+        padding: 0px 15px;
+    }
+
+    .package_box .package .left {
+        height: 232px;
+    }
+
+    .itinary_box .faq li.a {
+        margin-left: 15%;
+        text-align: justify;
+        padding-right: 0;
+    }
+    .itinary_box li.q h5.first_day:before {
+        left: -13px;
+    }
+    .itinary_box .faq li.a ul li {
+        font-size: 13px;
+    }
+    .itinary_box .meal li {
+
+        font-size: 11px;
+    }
+    .review_detail .right form.trip_from {
+        position: absolute;
+        left: 0;
+        right: 0;
+        width: 95%;
+        margin: auto;
+    }
+    form {
+     top: 100%;
+    }
+    footer {
+        background-color: #2c2c2c;
+        margin-top: 615px;
+    }
+}
